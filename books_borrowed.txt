@@ -1,0 +1,2 @@
+User id: 124555, Book id: 123
+User id: 123238, Book id: 130
